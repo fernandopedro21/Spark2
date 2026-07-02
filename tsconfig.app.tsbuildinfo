@@ -1,0 +1,1 @@
+{"root":["../../src/app.tsx","../../src/main.tsx","../../src/components/homescreen.tsx","../../src/components/instantbillboardscreen.tsx","../../src/components/profileeditor.tsx","../../src/lib/monetizationservice.ts","../../src/lib/supabaseclient.ts","../../src/types/events.ts"],"version":"6.0.3"}
